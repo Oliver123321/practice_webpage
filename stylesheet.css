@@ -1,0 +1,1242 @@
+
+@import url('https://fonts.googleapis.com/css?family=Squada+One');
+
+
+.container
+{
+	margin:auto;
+	max-width:1200px;
+	border:3px solid blue;
+}
+
+
+.navbar1
+{
+	
+  background-color: #ffffff;
+}
+
+ .navbar1 .navbar-header
+{
+	float:right;
+	margin-right:50px;
+	
+}
+.navbar1 .navbar-collapse
+{
+	text-align: left;
+	float: none;
+}
+
+.navbar1 .navbar-header li a
+{
+	font-family: 'Roboto', sans-serif;
+	font-size:14px;
+	color:#060e59;
+	font-stretch: condensed;
+	float:right;
+	font-weight:bold;
+	
+	
+	
+}
+.navbar1 .navbar-header li a:hover
+{
+	
+	background-color:#ff7418;
+	
+	
+}
+.navbar1 .navbar-header li a:visited
+{
+	
+	background-color:#ff7418;
+	
+	
+}
+
+
+ .navbar1 .navbar-nav
+{
+
+margin-right:80px;
+
+}
+.navbar1 .navbar-toggle
+{
+	border:1px solid black;
+}
+.navbar1 .icon-bar
+{
+	background-color:black;
+}
+
+/* ----------------------------------------------------------------------	NAVBAR 2 ----------------------------------------------------------------- */
+
+.navbar2
+{
+	
+  background-color: #060e59;
+  
+  border-bottom:5px solid #ff7418;
+}
+
+ .navbar2 .navbar-header
+{
+	float:right;
+	margin-right:50px;
+	text-align:left;
+	
+}
+
+.navbar2 .navbar-header li a
+{
+	
+	font-size:24px;
+	color:white;
+	float:right;
+	font-weight:bold;
+	font-family: 'Squada One', cursive;
+	padding-top:31px;
+	text-align:left;
+	
+	
+	
+}
+.navbar2 .navbar-collapse
+{
+	text-align: left;
+	float: none;
+}
+
+.navbar2 .navbar-header li a:hover
+{
+	
+	background-color:#ff7418;
+	
+	
+}
+.navbar2 .navbar-header li a:visited
+{
+	
+	background-color:#ff7418;
+	
+	
+}
+
+
+ .navbar2.navbar-nav
+{
+
+margin-right:80px;
+
+}
+.navbar2 .navbar-toggle
+{
+	border:1px solid white;
+}
+.navbar2 .icon-bar
+{
+	background-color:white;
+}
+
+
+
+
+/* ----------------------------------------hero selection------------------------------------------------------ */
+
+.hero-section
+{
+	background-color:#1c1947;
+	height:180px;
+	margin-top:-20px;
+	
+	
+}
+.hero-section .news
+{
+	margin-left:500px;
+	color:white;
+	font-size:60px;
+	padding-top:41px;
+	font-family: 'Squada One', cursive;
+	
+}
+/* --------------------------------------------------------- images---------------------------------------------------------------------------------------- */
+
+.latest
+{
+	color:#060e57;
+	padding-top:40px;
+	 font-family: 'Squada One', cursive;
+	
+ 
+  
+
+}
+.underline
+{
+	
+	text-decoration-color: #ee7306;
+}
+ .form-inline
+{
+	margin-left:5px;
+	font-size:13px;
+	width:100%;
+	 text-align: left;
+	  border-bottom:1px solid grey; 
+	  border-top:1pxsolid grey;
+	  color: var(--night-blue);
+	  font-family: 'Roboto', sans-serif;
+	  padding-bottom:40px;
+	  
+	  
+}
+.form-group
+{
+	float:right;
+	padding-right:20px;
+	
+	
+
+	
+}
+
+
+
+    .lable
+{
+	
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+#exampleInputName2
+{
+	padding-right:20px;
+}
+
+
+
+.ttt
+{	padding-top:15px;
+	width:100%;
+	height:222px;
+	
+	/* background-size:contain; */
+}
+
+
+footer
+{
+	height:95px;
+	background-color:#060e59;
+	margin-top:200px;
+}
+.fa 
+{
+	margin-top:29px;
+	margin-left:3px;
+	
+	
+	
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:40%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+
+float:center;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-family: Roboto;
+  font-stretch: condensed;
+   line-height: 1;
+   padding-top:22px;
+ padding-left:18px;
+   margin-left:120px
+}
+
+#exampleInputName2
+{
+	
+	
+	width:215px;
+	
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:2px;
+		padding:5px;
+		width:140px;
+		
+		
+		
+}
+ .btn
+{
+	
+	margin-right:20px;
+	background-color:orange;
+	width:81px;
+	
+ 
+	
+}
+
+
+
+
+/* ========================================================== width 1200================================================ */
+@media only screen and (max-width: 1200px) 
+{
+   .ttt
+	{
+        width:100%;
+		height:222px;
+    }
+
+
+.tt
+{
+	margin-left:-5px;
+	
+}
+.last
+{
+	font-family:'Roboto';
+	padding-bottom:2px;
+	
+}
+ .btn
+{
+	
+	margin-right:20px;
+	background-color:orange;
+	width:81px;
+	
+ 
+	
+}
+footer
+{
+	height:95px;
+	background-color:#060e59;
+	margin-top:200px;
+}
+.fa 
+{
+	margin-top:29px;
+	margin-left:3px;
+	
+	
+}
+    .lable
+{
+	
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:40%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+	margin-top:-10px;
+	
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-family: Roboto;
+  font-stretch: condensed;
+padding-left:5px;
+margin-left:50px;
+padding-right:50px;
+
+
+   
+  
+   
+}
+#exampleInputName2
+{
+	
+	
+	width:215px;
+	
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:2px;
+		padding:5px;
+		width:140px;
+		
+		
+		
+}
+
+}
+
+/* ========================================================  width 992 ===================================================== */
+@media only screen and (max-width: 992px) 
+{
+   
+   
+   .latest
+{
+	margin-left:250px;
+	color:#060e57;
+	padding-top:5px;
+	 font-family: 'Squada One', cursive;
+}
+
+
+.hero-section .news
+{
+	color:white;
+	font-size:60px;
+	padding-top:41px;
+	font-family: 'Squada One', cursive;
+	margin-left:400px;;
+}
+    .lable
+{
+	
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+
+   
+
+  .btn 
+{
+	
+	background-color:orange;
+	
+ 
+	
+}
+   .ttt
+	{
+        width:100%;
+		height:222px;
+    }
+
+.tt
+{
+	margin-left:-1px;
+	
+}
+
+.last
+{
+	font-family:'Roboto';
+	padding-bottom:2px;
+	
+}
+ .btn
+{
+	
+	margin-right:20px;
+	background-color:orange;
+	margin-bottom:5px;
+	width:81px;
+ 
+	
+}
+footer
+{
+	height:95px;
+	background-color:#060e59;
+	margin-top:200px;
+	
+	
+
+	
+}
+.fa 
+{
+	padding-top:5px;
+	padding-left:5px;
+	margin-left:18px;
+	
+	
+	
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:40%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+	margin-top:-10px;
+	
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-family: Roboto;
+  font-stretch: condensed;
+padding-left:5px;
+margin-left:50px;
+padding-right:50px;
+
+
+   
+  
+   
+}
+#exampleInputName2
+{
+	
+	
+	width:215px;
+	
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:2px;
+		padding:5px;
+		width:140px;
+		
+		
+		
+}
+}
+
+
+/* ========================================================  width 767 ===================================================== */
+@media screen and (min-width: 481px) and (max-width: 767px)
+{
+	   .form-inline
+{
+	margin-left:5px;
+	font-size:13px;
+	width:100%;
+	 text-align: left;
+	  border-bottom:1px solid grey; 
+	  border-top:1pxsolid grey;
+	  color: var(--night-blue);
+	  font-family: 'Roboto', sans-serif;
+	  padding-bottom:180px;
+	  
+	  
+}
+	
+	
+	
+	.latest
+{
+	margin-left:250px;
+	color:#060e57;
+	padding-top:5px;
+	 font-family: 'Squada One', cursive;
+}
+
+
+.hero-section .news
+{
+	color:white;
+	font-size:60px;
+	padding-top:41px;
+	font-family: 'Squada One', cursive;
+	margin-left:250px;;
+}
+      .lable
+{
+	margin-left:-400px;
+	display:inline;
+	padding:15px;
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+.spinner
+{
+	margin-left:-270px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius: 2px;
+	background-color: #c6c7d3;
+  border: solid 1px #c6c7d3;
+ }
+  
+
+
+   .ttt
+	{
+		display:block;
+		margin:auto;
+        width:372px;
+		height:222px;
+    }
+
+
+.tt
+{
+		
+		width:350px;
+	margin-left:190px;
+	text-align:center;
+	
+	
+	
+	
+}
+.t
+{
+	text-align:left;
+	width:372px;
+	margin-left:180px;
+}
+.last
+{
+	font-family:'Roboto';
+	padding-bottom:2px;
+	text-align:center;
+	width:450px;
+	margin-left:135px;
+}
+  .btn
+{
+	margin-top:100px;
+	margin-left:-145px;
+	background-color:orange;
+	margin-bottom:50px;
+ 
+	
+}
+#exampleInputName2
+{
+	
+	margin-left:-390px;
+	width:215px;
+	margin-bottom:-30px;
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:-60px;
+		padding:13px;
+		width:140px;
+		margin-left:-390px;
+		
+		
+}
+footer
+{
+	height:95px;
+	background-color:#060e59;
+	margin-top:150px;
+	
+	
+
+	
+}
+.fa 
+{
+	margin-top:29px;
+	margin-left:8px;	
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:35%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+	margin-top:-10px;
+	
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-family: Roboto;
+  font-stretch: condensed;
+  width:20%;
+  margin-left:-10px;
+  margin-top:-10px;
+
+
+
+
+
+   
+  
+   
+}
+}
+/* ========================================================  width 480 ===================================================== */
+@media only screen and (max-width: 480px) 
+{
+   .form-inline
+{
+	margin-left:5px;
+	font-size:13px;
+	width:100%;
+	 text-align: left;
+	  border-bottom:1px solid grey; 
+	  border-top:1pxsolid grey;
+	  color: var(--night-blue);
+	  font-family: 'Roboto', sans-serif;
+	  padding-bottom:180px;
+	  
+	  
+}
+   
+	
+ 
+    .latest
+{
+	margin-left:60px;
+	color:#060e57;
+	
+	 font-family: 'Squada One', cursive;
+}
+
+
+.hero-section .news
+{
+	color:white;
+	font-size:60px;
+	padding-top:41px;
+	font-family: 'Squada One', cursive;
+	margin-left:120px;
+}
+   .lable
+{
+	margin-left:-330px;
+	display:inline;
+	padding:15px;
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+.spinner
+{
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius: 2px;
+	background-color: #c6c7d3;
+  border: solid 1px #c6c7d3;
+ }
+  
+
+.btn 
+{
+	
+	background-color:orange;
+	margin:auto;
+	
+	
+	
+}
+   
+   
+   
+   .ttt
+	{
+        width:100%;
+		height:222px;
+    }
+
+
+.tt
+{
+	margin-left:-5px;
+	
+}
+.last
+{
+	font-family:'Roboto';
+	padding-bottom:2px;
+	
+}
+ .btn
+{
+	margin-top:100px;
+	margin-left:-145px;
+	background-color:orange;
+	margin-bottom:50px;
+ 
+	
+}
+#exampleInputName2
+{
+	
+	margin-left:-320px;
+	width:215px;
+	margin-bottom:-30px;
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:-60px;
+		padding:13px;
+		width:140px;
+		margin-left:-320px;
+		
+		
+}
+footer
+{
+	height:95px;
+	background-color:#060e59;
+	margin-top:150px;
+	
+	
+
+	
+}
+.fa 
+{
+	margin-top:29px;
+	margin-left:8px;
+	
+	
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:25%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+	margin-top:-10px;
+	
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+font-family: Roboto;
+  font-stretch: condensed;
+  padding-right:37px;
+  margin-left:-32px;
+
+   
+  
+   
+}
+
+
+
+}
+/* ========================================================  width 320 ===================================================== */
+@media only screen and (min-width: 320px) and (max-width: 479px)
+{
+	
+ 
+   .latest
+{
+	margin-left:60px;
+	color:#060e57;
+	
+	 font-family: 'Squada One', cursive;
+}
+
+
+.hero-section .news
+{
+	color:white;
+	font-size:60px;
+	padding-top:41px;
+	font-family: 'Squada One', cursive;
+	margin-left:40px;
+}
+
+   .lable
+{
+	margin-left:-30px;
+	display:inline;
+	padding:15px;
+	color: #060e59;
+	font-family: Roboto;
+	  font-size: 21px;
+}
+
+.spinner
+{
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius: 2px;
+	background-color: #c6c7d3;
+  border: solid 1px #c6c7d3;
+ }
+  
+
+.btn 
+{
+	position:absolute;
+	background-color:orange;
+	margin-top:45px;
+	margin-left:-140px;
+	width:81px;
+	
+	
+	
+}
+
+
+ 
+   .ttt
+	{
+        width:100%;
+		height:222px;
+    }
+
+
+.tt
+{
+	margin-left:-5px;
+	
+}
+.last
+{
+	font-family:'Roboto';
+	padding-bottom:2px;
+	
+}
+
+footer
+{
+	height:53%;
+	
+	background-color:#060e59;
+	margin-top:100px;
+	
+	
+
+	
+}
+.fa 
+{
+	margin-top:20px;
+	margin-left:3px;
+}
+
+
+.form-inline
+{
+	display:inline-block;
+}
+
+.fa-facebook
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+	margin-left:18%;
+}
+
+.fa-instagram
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.fa-twitter
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+
+.fa-youtube-play
+{
+	width:35px;
+	height:35px;
+	background:orange;
+	color:blue;
+}
+
+.footer-nav
+{
+	background-color:#060e59;
+	height:53px;
+	border-top:1px solid grey;
+	margin-top:-10px;
+	
+}
+ .footer-nav  li
+{
+	
+display:inline-block;
+color:white;
+
+font-family: 'Roboto', sans-serif;
+font-size: 10px;
+font-family: Roboto;
+  font-stretch: condensed;
+  padding-right:30px;
+  margin-left:-35px;
+  
+
+   
+  
+   
+}
+
+#exampleInputName2
+{
+	margin-top:20px;
+	margin-left:-20px;
+	margin-bottom:25px;
+	margin-right:20px;
+	width:215px;
+	
+	
+	
+}
+
+#spin
+
+{	
+		margin-top:-55px;
+		padding:13px;
+		width:140px;
+		margin-left:-20px;
+}
+ .form-inline
+ {
+	 padding-bottom:40px;
+ }
+
+}
+
